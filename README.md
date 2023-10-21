@@ -11,8 +11,8 @@ SobreMin()
 ```
 - 🔭 Estudando para me tornar Desenvolvedora 
 - 🌱 Apaixonada por Tecnologia, Desenvolvimento, Aprendizado Contínuo e Criatividade.
-- 👯 Disponível para colaborar em projetos em que eu so seja olhante pq ainda não me garanto em codificar.
-- 🤔  Quando não estou programando, você pode me encontrar estudando, ou vende memes em redes sociais ou em eventos de
+- 👯 Disponível para colaborar em projetos em que eu só seja olhante pq ainda não me garanto em codificar Software muito complexos. (a não ser que me ensine do zero!! ai e outra historia !)
+- 🤔  Quando não estou programando, você pode me encontrar estudando, ou vendo memes em redes sociais ou em eventos de
    cultura geek/nerd!
   
 
